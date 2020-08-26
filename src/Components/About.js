@@ -34,7 +34,7 @@ const About = () => {
 						music, football, reading, video games, movies and travelling.
 					</p>
 					<button className='resume'>
-						<a target='_blank' rel='noopener noreferrer' href='https://drive.google.com/file/d/17xII0Wx_6wkt9GNaiub6mbRVsIHFuf35/view?usp=sharing'>
+						<a target='_blank' rel='noopener noreferrer' href='https://drive.google.com/file/d/1RN63k00bQz46UpFfBzQzQxwwkLKRIXwZ/view?usp=sharing'>
 							<FontAwesomeIcon icon={faDownload} />
 							  My Resume
 						</a>
