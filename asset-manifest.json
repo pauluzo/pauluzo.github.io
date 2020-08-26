@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8493c922.chunk.css",
+    "main.js": "/static/js/main.41705a7d.chunk.js",
+    "main.js.map": "/static/js/main.41705a7d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.6b081391.chunk.js": "/static/js/2.6b081391.chunk.js",
+    "static/js/2.6b081391.chunk.js.map": "/static/js/2.6b081391.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3cf3d5590f6586165129c14da9b07457.js": "/precache-manifest.3cf3d5590f6586165129c14da9b07457.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8493c922.chunk.css.map": "/static/css/main.8493c922.chunk.css.map",
+    "static/js/2.6b081391.chunk.js.LICENSE.txt": "/static/js/2.6b081391.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/bgphoto.205a90c3.jpg",
+    "static/media/chit_chat.png": "/static/media/chit_chat.f3084d70.png",
+    "static/media/github_logo.png": "/static/media/github_logo.dd24e5cb.png",
+    "static/media/gmail_logo.png": "/static/media/gmail_logo.56fe8aa9.png",
+    "static/media/leren_app.png": "/static/media/leren_app.0b5caa8d.png",
+    "static/media/movie_search.png": "/static/media/movie_search.b8b6836f.png",
+    "static/media/nubi_website.png": "/static/media/nubi_website.74413367.png",
+    "static/media/portfolio_site.png": "/static/media/portfolio_site.abef9cb9.png",
+    "static/media/profile_pic.jpg": "/static/media/profile_pic.459a6ce7.jpg",
+    "static/media/restaurant_app.png": "/static/media/restaurant_app.9569f1de.png",
+    "static/media/rxjs-logo.png": "/static/media/rxjs-logo.395adeb4.png",
+    "static/media/treevia-app.png": "/static/media/treevia-app.d8dd6108.png",
+    "static/media/twitter_logo.png": "/static/media/twitter_logo.927961e8.png",
+    "static/media/vgg_website.png": "/static/media/vgg_website.5986b605.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/2.6b081391.chunk.js",
+    "static/css/main.8493c922.chunk.css",
+    "static/js/main.41705a7d.chunk.js"
+  ]
+}
